@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Butter77fly/Frontend-Mentor-QR-Card)
-- Live Site URL: [Add live site URL here](https://butter77fly.github.io/Frontend-Mentor-QR-Card/)
+- Solution URL: [My Solution Repository](https://github.com/Butter77fly/Frontend-Mentor-QR-Card)
+- Live Site URL: [Github Page](https://butter77fly.github.io/Frontend-Mentor-QR-Card/)
 
 ## My process
 
