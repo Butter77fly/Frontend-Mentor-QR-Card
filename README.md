@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Butter77fly/Frontend-Mentor-QR-Card)
+- Live Site URL: [Add live site URL here](https://butter77fly.github.io/Frontend-Mentor-QR-Card/)
 
 ## My process
 
@@ -64,5 +64,5 @@ In future projects, I want to continue improving my understanding of Flexbox and
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Butter77fly)
+- Website - [Ezeigwe Chinaza](https://github.com/Butter77fly)
 - Frontend Mentor - [@Butter77fly](https://www.frontendmentor.io/profile/Butter77fly)
